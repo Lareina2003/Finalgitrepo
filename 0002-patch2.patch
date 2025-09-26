@@ -1,0 +1,24 @@
+From 85d3e2680b115f4e02394852520c9098605adf05 Mon Sep 17 00:00:00 2001
+From: Lareina2003 <nlslareina@gmail.com>
+Date: Fri, 26 Sep 2025 12:01:31 +0530
+Subject: [PATCH 2/2] patch2
+
+---
+ gitpracticenew/gitnew.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/gitpracticenew/gitnew.html b/gitpracticenew/gitnew.html
+index be5749b..dd78cbf 100644
+--- a/gitpracticenew/gitnew.html
++++ b/gitpracticenew/gitnew.html
+@@ -13,5 +13,6 @@
+   <p>Branch A cherrypick 2</p>
+   <p>Rebase change</p>
+   <p>patch change 1</p>
++  <p>patch change 2</p>
+ </body> 
+ </html>
+\ No newline at end of file
+-- 
+2.50.1.windows.1
+
